@@ -1,6 +1,6 @@
 # npmtest-barbeque
 
-#### test coverage for  [barbeque (v0.2.4)](https://github.com/pilwon/barbeque)  [![npm package](https://img.shields.io/npm/v/npmtest-barbeque.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-barbeque) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-barbeque.svg)](https://travis-ci.org/npmtest/node-npmtest-barbeque)
+#### basic test coverage for  [barbeque (v0.2.4)](https://github.com/pilwon/barbeque)  [![npm package](https://img.shields.io/npm/v/npmtest-barbeque.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-barbeque) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-barbeque.svg)](https://travis-ci.org/npmtest/node-npmtest-barbeque)
 
 #### Redis-based task queue library for Node.js, inspired by Celery and Kue.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-barbeque/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-barbeque/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-barbeque/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-barbeque/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-barbeque/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-barbeque/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-barbeque/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-barbeque/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-barbeque/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-barbeque/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-barbeque/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-barbeque/build/coverage.html/index.html)
 
